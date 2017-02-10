@@ -24,3 +24,8 @@ The app is built with React and react-router. It uses AJAX to get data from the 
 * react-bootstrap ^0.30.7
 * react-dom ^15.4.2
 * react-router ^3.0.2
+
+
+### License
+
+MIT
