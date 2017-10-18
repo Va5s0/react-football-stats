@@ -15,7 +15,7 @@ The app is built with React and react-router. It uses AJAX to get data from the 
 ### Development server
 
 * Start the development server with `npm start`
-* Point your browser at http://localhost:8080
+* Point your browser at http://localhost:3000
 
 ### Dependencies
 
