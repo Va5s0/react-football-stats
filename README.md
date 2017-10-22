@@ -4,6 +4,12 @@
 
 The app is built with React and react-router. It uses AJAX to get data from the http://api.football-data.org/ API. The navigation between pages is performed by react-router. The project is written in ES6 syntax.  
 
+![alt text](screenshots/HomePage.png "Home Page")
+
+![alt text](screenshots/CompetitionsPage.png "Competitions Page")
+
+![alt text](screenshots/LeaguePage.png "League Page")
+
 ## Installation & setup
 
 * Clone this repo
